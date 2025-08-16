@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Project_1_GameFlow\\Project_1_GameFlow.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\1주차\\Project_1_GameFlow\\Project_1_GameFlow.csproj",
       "projectName": "Project_1_GameFlow",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Project_1_GameFlow\\Project_1_GameFlow.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\1주차\\Project_1_GameFlow\\Project_1_GameFlow.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Project_1_GameFlow\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\1주차\\Project_1_GameFlow\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

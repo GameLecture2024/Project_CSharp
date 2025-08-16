@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|c:\\users\\administrator\\desktop\\project_csharp\\2\uC8FC\uCC28\\project2_class\\debt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|solutionrelative:debt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|c:\\users\\administrator\\desktop\\project_csharp\\2\uC8FC\uCC28\\project2_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|c:\\users\\administrator\\desktop\\project_csharp\\2\uC8FC\uCC28\\project2_class\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|solutionrelative:info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|c:\\users\\administrator\\desktop\\project_csharp\\2\uC8FC\uCC28\\project2_class\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|solutionrelative:coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|c:\\users\\administrator\\desktop\\project_csharp\\2\uC8FC\uCC28\\project2_class\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|c:\\users\\administrator\\desktop\\project_csharp\\2\uC8FC\uCC28\\project2_class\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|c:\\users\\administrator\\desktop\\project_csharp\\2\uC8FC\uCC28\\project2_class\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA48769-1EC5-4501-A7A9-969AC9D71AE3}|Project2_Class.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:18:52.545Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Coin.cs",
+              "RelativeDocumentMoniker": "Coin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Coin.cs",
+              "RelativeToolTip": "Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T07:36:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Info.cs",
+              "RelativeDocumentMoniker": "Info.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Info.cs",
+              "RelativeToolTip": "Info.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwD4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T07:04:29.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:52:14.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Debt.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Debt.cs",
+              "RelativeDocumentMoniker": "Debt.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Debt.cs",
+              "RelativeToolTip": "Debt.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:51:55.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:51:19.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_CSharp\\2\uC8FC\uCC28\\Project2_Class\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:50:18.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\bin\Debug\net8.0\MyGame_unknown.exe
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\bin\Debug\net8.0\MyGame_unknown.deps.json
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\bin\Debug\net8.0\MyGame_unknown.runtimeconfig.json
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\bin\Debug\net8.0\MyGame_unknown.dll
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\bin\Debug\net8.0\MyGame_unknown.pdb
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\obj\Debug\net8.0\MyGame_unknown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\obj\Debug\net8.0\MyGame_unknown.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\obj\Debug\net8.0\MyGame_unknown.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\obj\Debug\net8.0\MyGame_unknown.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\obj\Debug\net8.0\MyGame_unknown.sourcelink.json
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\obj\Debug\net8.0\MyGame_unknown.dll
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\obj\Debug\net8.0\refint\MyGame_unknown.dll
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\obj\Debug\net8.0\MyGame_unknown.pdb
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\obj\Debug\net8.0\MyGame_unknown.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\MyGame_unknown\obj\Debug\net8.0\ref\MyGame_unknown.dll
